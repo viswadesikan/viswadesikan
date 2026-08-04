@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Viswa+Desikan+%F0%9F%91%8B;Robotics+Engineer+%7C+Python+Developer;Building+AI+that+actually+helps+people;Currently+engineering+an+Eco+Robot+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Viswa+Desikan+%F0%9F%91%8B;AI+Developer+%7C+Python+Developer+%7C+AI+Enthusiast;Building+AI+that+actually+helps+people;Passionate+about+AI,+Automation+&+Software+Development+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -25,7 +25,7 @@ class ViswaDesikan:
         self.location    = "Theerthagirinagar, Palacode, Dharmapuri, IN"
         self.degree      = "B.Tech – AI & Data Science @ Mahendra Engineering College"
         self.email       = "viswadesikan@outlook.com"
-        self.roles       = ["Robotics Engineer", "Python Developer", "AI Builder"]
+        self.roles       = ["AI Developer", "Python Developer", "AI Enthusiast"]
 
         self.stack = [
             "Python", "Java", "SQL",
